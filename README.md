@@ -20,7 +20,7 @@ Focused on building APIs, improving software architecture, and continuously evol
 
 <h3 align="left">
    <b>
-  ⢷ Languages
+  ⌁ Languages
 </h3>
 
 <p align="left">
@@ -79,7 +79,7 @@ Git • GitHub • Docker • VS Code
 </h3>
 
 <p align="left">
-Software Architecture • REST APIs • Testing Strategies • Clean Code
+Software Architecture • REST APIs • Automated Testing • Clean Code
 </p>
 
 <h3 align="left">
