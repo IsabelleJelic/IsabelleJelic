@@ -6,6 +6,8 @@
 
 <br>
 
+<hr>
+
 <h3 align="left">
   <b>
   ✧ About me
@@ -19,6 +21,8 @@ Focused on building APIs, improving software architecture, and continuously evol
 </p>
 
 <br>
+
+<hr>
 
 <h3 align="left">
    <b>
