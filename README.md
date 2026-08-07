@@ -1,7 +1,7 @@
 <h2 align="center">❀ Hello, I'm Isabelle!</h2>
 
 <p align="center">
-. ݁₊ ⊹ Back-End Developer & Systems Analyst building clean, scalable, and maintainable software solutions. ⊹ ₊ ݁.  
+. ݁₊ ⊹ build clean, scalable, and maintainable software solutions. ⊹ ₊ ݁.  
 </p>
 
 <br>
