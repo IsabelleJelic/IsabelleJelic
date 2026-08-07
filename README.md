@@ -4,6 +4,8 @@
 <b>. ݁₊ ⊹ I develop clean, scalable, and maintainable software solutions. ⊹ ₊ ݁.</b>  
 </p>
 
+<hr>
+
 <h3 align="left">
   <b>
   ✧ About me
