@@ -1,10 +1,8 @@
-<p align="center">
-#❀ Hello, I'm Isabelle!
-<p/>
+<h2 align="center">❀ Hello, I'm Isabelle!</h2>
 
-<p align="center">  
-###₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable software solutions.
-<p/>
+<p align="center">
+₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable solutions.
+</p>
 
 ---
 <p align="center">
