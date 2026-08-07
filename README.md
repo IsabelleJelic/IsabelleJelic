@@ -24,7 +24,6 @@ Python • Go • Java • PHP • JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/>
    &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-   &nbsp;&nbsp;&nbsp;
 </h6>
 
 <br>
