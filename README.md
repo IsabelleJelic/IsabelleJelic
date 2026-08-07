@@ -9,7 +9,9 @@
 <h3 align="left">
   <b>
     ═══════
-    ✧ About me</b>
+  
+  ✧ About me
+  </b>
 </h3>
 
 <p align="left">
@@ -17,11 +19,12 @@ Back-End Developer & Systems Analyst passionate about technology and problem-sol
 <br>
 Focused on building APIs, improving software architecture, and continuously evolving my technical skills.
 </p>
-═══════
+
 <h3 align="left">
    <b>
      ═══════
-     ⢷ Languages
+     
+  ⢷ Languages
 </h3>
 
 <p align="left">
@@ -39,11 +42,12 @@ Focused on building APIs, improving software architecture, and continuously evol
 <h4 align="left">
 Python • Go • Java • PHP • JavaScript
 </h4>
-═══════
+
 <h3 align="left">
   <b>
     ═══════
-    ᯓ Databases</b>
+    
+  ᯓ Databases</b>
 </h3>
 
 <p align="left">
@@ -55,11 +59,12 @@ Python • Go • Java • PHP • JavaScript
 <h4 align="left">
 MySQL • Oracle
 </h4>
-═══════
+
 <h3 align="left">
   <b>
     ═══════
-    ✶ Tools</b>
+    
+  ✶ Tools</b>
 </h3>
 
 <p align="left">
@@ -75,11 +80,12 @@ MySQL • Oracle
 <h4 align="left">
 Git • GitHub • Docker • VS Code
 </h4>
-═══════
+
 <h3 align="left">
   <b>
     ═══════
-    ↳ Currently learning</b>
+    
+  ↳ Currently learning</b>
 </h3>
 
 <h4 align="left">
