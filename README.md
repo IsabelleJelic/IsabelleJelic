@@ -1,7 +1,19 @@
 <h2 align="center">❀ Hello, I'm Isabelle!</h2>
 
 <p align="center">
-₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable solutions.
+₊˚⊹♡ Back-End Developer & Systems Analyst building clean, scalable, and maintainable software solutions.
+</p>
+
+<br>
+
+<h3 align="left">
+  <b>🌷 About me</b>
+</h3>
+
+<p align="left">
+I enjoy creating software solutions with focus on clean code, scalability, and maintainability.
+<br>
+Currently improving my skills in back-end development, APIs, and software architecture.
 </p>
 
 <br>
