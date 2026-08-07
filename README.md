@@ -13,7 +13,7 @@
 </h3>
 
 <p align="left">
-<b><u>Back-End Developer</u></b> & Systems Analyst passionate about technology and problem-solving.
+<b><u>Back-End Developer</u></b> & <b><u>Systems Analyst</u></b> passionate about technology and problem-solving.
 <br>
 Focused on building APIs, improving software architecture, and continuously evolving my technical skills.
 </p>
