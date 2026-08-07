@@ -1,7 +1,7 @@
 <h2 align="center">❀ Hello, I'm Isabelle!</h2>
 
 <p align="center">
-₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable software solutions.
+₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable solutions.
 </p>
 
 <br>
@@ -9,10 +9,6 @@
 <h3 align="left">
    <b>💻 Languages
 </h3>
-
-<h4 align="left">
-Python • Go • Java • PHP • JavaScript
-</h4>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
@@ -26,15 +22,15 @@ Python • Go • Java • PHP • JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
 </p>
 
+<h4 align="left">
+Python • Go • Java • PHP • JavaScript
+</h4>
+
 <br>
 
 <h3 align="left">
   <b>🗄️ Databases</b>
 </h3>
-
-<h4 align="left">
-MySQL • Oracle
-</h4>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
@@ -42,15 +38,15 @@ MySQL • Oracle
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/>
 </p>
 
+<h4 align="left">
+MySQL • Oracle
+</h4>
+
 <br>
 
 <h3 align="left">
   <b>⚙️ Tools</b>
 </h3>
-
-<h4 align="left">
-Git • GitHub • Docker • VS Code
-</h4>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
@@ -61,6 +57,10 @@ Git • GitHub • Docker • VS Code
    &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
 </p>
+
+<h4 align="left">
+Git • GitHub • Docker • VS Code
+</h4>
 
 <br>
 
