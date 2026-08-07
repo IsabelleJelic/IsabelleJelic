@@ -10,7 +10,7 @@
   <b>
   ✧ About me
     
-    ═══════
+  ═══════
   </b>
 </h3>
 
@@ -24,7 +24,7 @@ Focused on building APIs, improving software architecture, and continuously evol
    <b>
   ⢷ Languages
      
-     ═══════
+  ═══════
 </h3>
 
 <p align="left">
