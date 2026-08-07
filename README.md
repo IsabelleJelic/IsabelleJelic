@@ -11,9 +11,9 @@
 </h3>
 
 <p align="left">
-I enjoy creating software solutions with focus on clean code, scalability, and maintainability.
+Back-End Developer & Systems Analyst passionate about technology and problem-solving.
 <br>
-Currently improving my skills in back-end development, APIs, and software architecture.
+Focused on building APIs, improving software architecture, and continuously evolving my technical skills.
 </p>
 
 <br>
