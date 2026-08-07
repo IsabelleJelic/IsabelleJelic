@@ -6,7 +6,9 @@
 
 <br>
 
-<h4 align="right">💻 Languages</h4>
+<h4 align="right">
+   <b>💻 Languages
+</h4>
 
 <h4 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
