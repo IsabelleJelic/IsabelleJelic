@@ -1,66 +1,34 @@
-# 🌷​ Hello! I'm Isabelle Jelic 🌷​
+╭──────────────────────────────────────────────╮
+            🌷 Hello, I'm Isabelle
+╰──────────────────────────────────────────────╯
 
-💻 A Back-End Developer passionate about technology, software development, and problem-solving.
+Building clean, scalable and maintainable software.
 
-I currently work in software development, focusing primarily on back-end applications, databases, and APIs. I am constantly growing technically, building projects to expand my knowledge and apply development best practices.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+💻 Languages
 
-## 🚀 Technologies
+Python • Go • Java • PHP • JavaScript
 
-**Languages**
+🗄️ Databases
 
-* Python
-* Go
-* Java
-* PHP
-* JavaScript
-* SQL
+MySQL • Oracle
 
-**Databases**
+⚙️ Tools
 
-* MySQL
-* Oracle Database
-* SQL
+Git • GitHub • Docker • VS Code
 
-**Tools**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-* Git
-* GitHub
-* VS Code
-* XAMPP
+🌱 Currently learning
 
----
+• Software Architecture
+• REST APIs
+• Docker
+• Automated Testing
 
-## 📚 Currently Studying
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-* Software Architecture
-* REST APIs
-* Docker
-* Automated Testing
-* Development Best Practices
-* Clean Code
+📫 Contact
 
----
-
-## 📂 Projects
-
-Coming soon: this profile will feature projects built using industry-standard technologies, including:
-
-* REST APIs with Python (FastAPI)
-* REST APIs with Go
-* Java Systems
-* Full-Stack Applications
-* Python Automation Scripts
-
----
-
-## 🎯 Goal
-
-To build well-structured, scalable, and maintainable solutions while continuously growing as a software developer.
-
----
-
-## 📫 Contact
-
-* E-mail: *isabellevic.jelic@gmail.com*
+✉️ isabellevic.jelic@gmail.com
