@@ -7,7 +7,7 @@
 <br>
 
 <h3 align="left">
-  <b>🎀 About me</b>
+  <b>✧ About me</b>
 </h3>
 
 <p align="left">
