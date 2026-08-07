@@ -1,7 +1,7 @@
 #### ❀ Hello, I'm Isabelle!
 
 ---
-. ݁₊ ⊹ . ݁ _focused on developing clean, scalable, and easily maintainable software._ ₊ ⊹ .
+. ݁₊ ⊹ . ݁ _Developer and systems analyst focused on developing clean, scalable, and maintainable software._ ₊ ⊹ .
 
 ---
 
