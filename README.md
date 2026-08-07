@@ -81,7 +81,7 @@ Git • GitHub • Docker • VS Code
 </h3>
 
 <h4 align="left">
-Software Architecture • REST APIs • Automated Testing
+Software Architecture • REST APIs • Testing Strategies • Clean Code
 </h4>
 
 <br>
