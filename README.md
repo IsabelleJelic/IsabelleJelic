@@ -1,6 +1,6 @@
 # ❀ Hello, I'm Isabelle!
 
-##₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable software solutions.
+## ₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable software solutions.
 <br>
 
 ---
