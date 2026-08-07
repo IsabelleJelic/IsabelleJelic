@@ -41,6 +41,8 @@ Focused on building APIs, improving software architecture, and continuously evol
 Python • Go • Java • PHP • JavaScript
 </p>
 
+<hr>
+
 <h3 align="left">
   <b>
   ᯓ Databases</b>
@@ -55,6 +57,8 @@ Python • Go • Java • PHP • JavaScript
 <p align="left">
 MySQL • Oracle
 </p>
+
+<hr>
 
 <h3 align="left">
   <b>
@@ -75,6 +79,8 @@ MySQL • Oracle
 Git • GitHub • Docker • VS Code
 </p>
 
+<hr>
+
 <h3 align="left">
   <b>
   ᯓ Currently learning</b>
@@ -83,6 +89,8 @@ Git • GitHub • Docker • VS Code
 <p align="left">
 Software Architecture • REST APIs • Automated Testing • Clean Code
 </p>
+
+<hr>
 
 <h3 align="left">
   <b>
