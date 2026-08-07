@@ -1,13 +1,11 @@
 <h2 align="center">❀ Hello, I'm Isabelle!</h2>
 
 <p align="center">
-₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable solutions.
+₊˚⊹♡ Building clean, scalable, and maintainable software solutions through thoughtful development.
 </p>
 
 ---
-<p align="center">
-💻 ####Languages
-</p>
+<h4 align="center">💻 Languages</h4>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
