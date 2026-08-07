@@ -14,7 +14,7 @@
 Python • Go • Java • PHP • JavaScript
 </h4>
 
-<h6 align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
    &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35"/>
@@ -24,7 +24,7 @@ Python • Go • Java • PHP • JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/>
    &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-</h6>
+</p>
 
 <br>
 
@@ -36,11 +36,11 @@ Python • Go • Java • PHP • JavaScript
 MySQL • Oracle
 </h4>
 
-<h6 align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
    &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/>
-</h6>
+</p>
 
 <br>
 
@@ -52,7 +52,7 @@ MySQL • Oracle
 Git • GitHub • Docker • VS Code
 </h4>
 
-<h6 align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
    &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
@@ -60,7 +60,7 @@ Git • GitHub • Docker • VS Code
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
    &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
-</h6>
+</p>
 
 <br>
 
