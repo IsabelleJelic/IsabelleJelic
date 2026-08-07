@@ -2,6 +2,7 @@
 
 <p align="center">
 . ݁₊ ⊹ I develop clean, scalable, and maintainable software solutions. ⊹ ₊ ݁.  
+────────────────────────────────────────────────────────────────────
 </p>
 
 <br>
