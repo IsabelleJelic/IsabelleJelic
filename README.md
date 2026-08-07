@@ -1,16 +1,10 @@
-<div align="center">❀ Hello, I'm Isabelle!</h2>
+<h2 align="center">❀ Hello, I'm Isabelle!</h2>
 
-<p>
+<h3
 ₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable software solutions.
-</p>
+</h3>
 
-</div>
-
-<div align="right">
-
-<img src="[sua-imagem.png](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDRpcXgxZnIwY29uNXIxeGcyc2l5YWE2dTNzNnoweGQ4dzRlYWp5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nWZzCtRhyzOnu9zEqf/giphy.gif)" width="150">
-
-</div>
+<br>
 
 <h3 align="left">
    <b>💻 Languages
