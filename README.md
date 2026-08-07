@@ -10,9 +10,9 @@
    <b>💻 Languages
 </h3>
 
-<h4 align="left">
+<h3 align="left">
 Python • Go • Java • PHP • JavaScript
-</h4>
+</h3>
 
 <h6 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
