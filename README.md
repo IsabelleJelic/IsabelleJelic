@@ -1,4 +1,4 @@
-<h2 align="center"> ♡ Hello, I'm Isabelle!</h2>
+<h2 align="center"> 𖹭 Hello, I'm Isabelle!</h2>
 
 <p align="center">
 . ݁₊ ⊹ I develop clean, scalable, and maintainable software solutions. ⊹ ₊ ݁.
