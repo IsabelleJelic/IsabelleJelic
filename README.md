@@ -6,9 +6,9 @@
 
 <br>
 
-<h4 align="left">
+<h3 align="left">
    <b>💻 Languages
-</h4>
+</h3>
 
 <h4 align="left">
 Python • Go • Java • PHP • JavaScript
@@ -16,17 +16,21 @@ Python • Go • Java • PHP • JavaScript
 
 <h6 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+   <b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35"/>
+      <b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+         <b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/>
+            <b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
 </h6>
 
 <br>
 
-<h4 align="left">
+<h3 align="left">
   <b>🗄️ Databases</b>
-</h4>
+</h3>
 
 <h4 align="left">
 MySQL • Oracle • SQL
@@ -39,9 +43,9 @@ MySQL • Oracle • SQL
 
 <br>
 
-<h4 align="left">
+<h3 align="left">
   <b>⚙️ Tools</b>
-</h4>
+</h3>
 
 <h4 align="left">
 Git • GitHub • Docker • VS Code
@@ -56,9 +60,9 @@ Git • GitHub • Docker • VS Code
 
 <br>
 
-<h4 align="left">
+<h3 align="left">
   <b>🌱 Currently learning</b>
-</h4>
+</h3>
 
 <h4 align="left">
 Software Architecture • REST APIs • Automated Testing
@@ -66,9 +70,9 @@ Software Architecture • REST APIs • Automated Testing
 
 <br>
 
-<h4 align="left">
+<h3 align="left">
   <b>📫 Contact</b>
-</h4>
+</h3>
 
 <h4 align="left">
 📩 <a href="mailto:isabellevic.jelic@gmail.com">isabellevic.jelic@gmail.com</a>
