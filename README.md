@@ -1,14 +1,14 @@
 <h2 align="center">❀ Hello, I'm Isabelle!</h2>
 
 <p align="center">
-. ݁₊ ⊹ I develop clean, scalable, and maintainable software solutions. ⊹ ₊ ݁.  
+. ݁₊ ⊹ I develop clean, scalable, and maintainable software solutions. ⊹ ₊ ݁.
 </p>
 
 <hr>
 
 <h3 align="left">
   <b>
-  ✧ About me
+    ✧ About me
   </b>
 </h3>
 
@@ -21,19 +21,20 @@ Focused on building APIs, improving software architecture, and continuously evol
 <hr>
 
 <h3 align="left">
-   <b>
-  ✦ Languages
+  <b>
+    ✦ Languages
+  </b>
 </h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35"/>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
 </p>
 
@@ -43,12 +44,13 @@ Python • Go • Java • PHP • JavaScript
 
 <h3 align="left">
   <b>
-  ✦ Databases</b>
+    ✦ Databases
+  </b>
 </h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/>
 </p>
 
@@ -58,16 +60,17 @@ MySQL • Oracle
 
 <h3 align="left">
   <b>
-  ✦ Tools</b>
+    ✦ Tools
+  </b>
 </h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
 </p>
 
@@ -79,7 +82,8 @@ Git • GitHub • Docker • VS Code
 
 <h3 align="left">
   <b>
-  ✦ Currently learning</b>
+    ✦ Currently learning
+  </b>
 </h3>
 
 <p align="left">
@@ -90,7 +94,8 @@ Software Architecture • REST APIs • Automated Testing • Clean Code
 
 <h3 align="left">
   <b>
-    ✦ Contact</b>
+    ✦ Contact
+  </b>
 </h3>
 
 <p align="left">
