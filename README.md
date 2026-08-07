@@ -6,9 +6,7 @@
 
 <br>
 
-<h4 align="center">
-  <b>💻 Languages</b>
-</h4>
+<h4 align="right">💻 Languages</h4>
 
 <h4 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
@@ -71,5 +69,5 @@ Software Architecture • REST APIs • Automated Testing
 </h4>
 
 <h4 align="center">
-✉️ <a href="mailto:isabellevic.jelic@gmail.com">isabellevic.jelic@gmail.com</a>
+📩 <a href="mailto:isabellevic.jelic@gmail.com">isabellevic.jelic@gmail.com</a>
 </h4>
