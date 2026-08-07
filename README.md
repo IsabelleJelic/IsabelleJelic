@@ -35,9 +35,9 @@ Focused on building APIs, improving software architecture, and continuously evol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
 </p>
 
-<h4 align="left">
+<p align="left">
 Python • Go • Java • PHP • JavaScript
-</h4>
+</p>
 
 <h3 align="left">
   <b>
@@ -50,9 +50,9 @@ Python • Go • Java • PHP • JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/>
 </p>
 
-<h4 align="left">
+<p align="left">
 MySQL • Oracle
-</h4>
+</p>
 
 <h3 align="left">
   <b>
@@ -69,24 +69,24 @@ MySQL • Oracle
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
 </p>
 
-<h4 align="left">
+<p align="left">
 Git • GitHub • Docker • VS Code
-</h4>
+</p>
 
 <h3 align="left">
   <b>
   ↳ Currently learning</b>
 </h3>
 
-<h4 align="left">
+<p align="left">
 Software Architecture • REST APIs • Testing Strategies • Clean Code
-</h4>
+</p>
 
 <h3 align="left">
   <b>
     ⚡︎ Contact</b>
 </h3>
 
-<h4 align="left">
+<p align="left">
 📩 <a href="mailto:isabellevic.jelic@gmail.com">isabellevic.jelic@gmail.com</a>
-</h4>
+</p>
