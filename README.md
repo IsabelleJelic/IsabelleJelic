@@ -5,9 +5,11 @@
 </p>
 
 <br>
-═══════
+
 <h3 align="left">
-  <b>✧ About me</b>
+  <b>
+    ═══════
+    ✧ About me</b>
 </h3>
 
 <p align="left">
@@ -17,7 +19,9 @@ Focused on building APIs, improving software architecture, and continuously evol
 </p>
 ═══════
 <h3 align="left">
-   <b>⢷ Languages
+   <b>
+     ═══════
+     ⢷ Languages
 </h3>
 
 <p align="left">
@@ -37,7 +41,9 @@ Python • Go • Java • PHP • JavaScript
 </h4>
 ═══════
 <h3 align="left">
-  <b>ᯓ Databases</b>
+  <b>
+    ═══════
+    ᯓ Databases</b>
 </h3>
 
 <p align="left">
@@ -51,7 +57,9 @@ MySQL • Oracle
 </h4>
 ═══════
 <h3 align="left">
-  <b>✶ Tools</b>
+  <b>
+    ═══════
+    ✶ Tools</b>
 </h3>
 
 <p align="left">
@@ -69,7 +77,9 @@ Git • GitHub • Docker • VS Code
 </h4>
 ═══════
 <h3 align="left">
-  <b>↳ Currently learning</b>
+  <b>
+    ═══════
+    ↳ Currently learning</b>
 </h3>
 
 <h4 align="left">
@@ -77,7 +87,9 @@ Software Architecture • REST APIs • Testing Strategies • Clean Code
 </h4>
 ═══════
 <h3 align="left">
-  <b>⚡︎ Contact</b>
+  <b>
+    ═══════
+    ⚡︎ Contact</b>
 </h3>
 
 <h4 align="left">
