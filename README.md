@@ -41,8 +41,6 @@ Focused on building APIs, improving software architecture, and continuously evol
 Python • Go • Java • PHP • JavaScript
 </p>
 
-<hr>
-
 <h3 align="left">
   <b>
   ✦ Databases</b>
@@ -57,8 +55,6 @@ Python • Go • Java • PHP • JavaScript
 <p align="left">
 MySQL • Oracle
 </p>
-
-<hr>
 
 <h3 align="left">
   <b>
