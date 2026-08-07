@@ -4,8 +4,11 @@
 ₊˚⊹♡ Building clean, scalable, and maintainable software solutions through thoughtful development.
 </p>
 
----
-<h4 align="center">💻 Languages</h4>
+<br>
+
+<p align="center">
+  <b>💻 Languages</b>
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
@@ -22,8 +25,8 @@ Python • Go • Java • PHP • JavaScript
 <br>
 
 <p align="center">
-#### 🗄️ Databases
-<p/>
+  <b>🗄️ Databases</b>
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
@@ -37,8 +40,8 @@ MySQL • Oracle • SQL
 <br>
 
 <p align="center">
-#### ⚙️ Tools
-<p/>
+  <b>⚙️ Tools</b>
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
@@ -54,8 +57,8 @@ Git • GitHub • Docker • VS Code
 <br>
 
 <p align="center">
-#### 🌱 Currently learning
-<p/>
+  <b>🌱 Currently learning</b>
+</p>
 
 <p align="center">
 Software Architecture • REST APIs • Automated Testing
@@ -64,9 +67,9 @@ Software Architecture • REST APIs • Automated Testing
 <br>
 
 <p align="center">
-#### 📫 Contact
-<p/>
+  <b>📫 Contact</b>
+</p>
 
 <p align="center">
-📩 isabellevic.jelic@gmail.com
+✉️ <a href="mailto:isabellevic.jelic@gmail.com">isabellevic.jelic@gmail.com</a>
 </p>
