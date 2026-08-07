@@ -5,7 +5,7 @@
 </p>
 
 <br>
-
+═══════
 <h3 align="left">
   <b>✧ About me</b>
 </h3>
