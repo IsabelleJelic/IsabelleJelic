@@ -3,8 +3,9 @@
 ### ₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable software solutions.
 
 ---
-
+<p align="center">
 #### 💻 Languages
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
@@ -20,7 +21,9 @@ Python • Go • Java • PHP • JavaScript
 
 <br>
 
+<p align="center">
 #### 🗄️ Databases
+<p/>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
@@ -33,7 +36,9 @@ MySQL • Oracle • SQL
 
 <br>
 
+<p align="center">
 #### ⚙️ Tools
+<p/>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
@@ -48,7 +53,9 @@ Git • GitHub • Docker • VS Code
 
 <br>
 
+<p align="center">
 #### 🌱 Currently learning
+<p/>
 
 <p align="center">
 Software Architecture • REST APIs • Automated Testing
@@ -56,7 +63,9 @@ Software Architecture • REST APIs • Automated Testing
 
 <br>
 
+<p align="center">
 #### 📫 Contact
+<p/>
 
 <p align="center">
 ✉️ isabellevic.jelic@gmail.com
