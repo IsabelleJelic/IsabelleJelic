@@ -2,7 +2,6 @@
 
 ### ₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable software solutions.
 <br>
-
 #### 💻 Languages
 
 <p align="center">
