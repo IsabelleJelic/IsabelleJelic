@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-#### 💻 Languages
+####💻 Languages
 </p>
 
 <p align="center">
