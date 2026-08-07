@@ -16,8 +16,6 @@ Back-End Developer & Systems Analyst passionate about technology and problem-sol
 Focused on building APIs, improving software architecture, and continuously evolving my technical skills.
 </p>
 
-<br>
-
 <h3 align="left">
    <b>☻ Languages
 </h3>
