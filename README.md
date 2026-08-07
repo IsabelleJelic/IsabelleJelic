@@ -17,7 +17,7 @@ Focused on building APIs, improving software architecture, and continuously evol
 </p>
 
 <h3 align="left">
-   <b>⡞⠳⣄⣀⣠⠞⢷ Languages
+   <b>⡞⢷ Languages
 </h3>
 
 <p align="left">
