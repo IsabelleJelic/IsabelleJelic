@@ -4,6 +4,8 @@
 ₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable software solutions.
 </h3>
 
+<br>
+
 <h3 align="left">
    <b>💻 Languages
 </h3>
@@ -12,15 +14,15 @@
 Python • Go • Java • PHP • JavaScript
 </h4>
 
-<h4 align="left">
+<h6 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-</h4>
+</h6>
 
-
+<br>
 
 <h3 align="left">
   <b>🗄️ Databases</b>
@@ -30,12 +32,12 @@ Python • Go • Java • PHP • JavaScript
 MySQL • Oracle • SQL
 </h4>
 
-<h4 align="left">
+<h6 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/>
-</h4>
+</h6>
 
-
+<br>
 
 <h3 align="left">
   <b>⚙️ Tools</b>
@@ -45,14 +47,14 @@ MySQL • Oracle • SQL
 Git • GitHub • Docker • VS Code
 </h4>
 
-<h4 align="left">
+<h6 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
-</h4>
+</h6>
 
-
+<br>
 
 <h3 align="left">
   <b>🌱 Currently learning</b>
@@ -62,7 +64,7 @@ Git • GitHub • Docker • VS Code
 Software Architecture • REST APIs • Automated Testing
 </h4>
 
-
+<br>
 
 <h3 align="left">
   <b>📫 Contact</b>
