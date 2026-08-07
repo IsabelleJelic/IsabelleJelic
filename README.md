@@ -1,9 +1,6 @@
-╭──────────────────────────────────────────────╮
-            
-            🌷 Hello, I'm Isabelle
-            
-╰──────────────────────────────────────────────╯
 
+            🌷 Hello, I'm Isabelle! 👩🏼‍💻
+            
 Building clean, scalable and maintainable software.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
