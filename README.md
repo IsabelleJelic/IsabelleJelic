@@ -1,7 +1,7 @@
 <h2 align="center"> ⭑ ˙ ⋆ Hello Word, I'm Isabelle! ⋆ ˙ ⭑ </h2>
 
 <p align="center">
-. ݁ I develop clean, scalable, and maintainable software solutions. ˎˊ˗
+‧₊˚⊹ I develop clean, scalable, and maintainable software solutions. ‧₊˚⊹
 </p>
 
 <hr>
