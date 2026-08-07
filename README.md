@@ -1,8 +1,6 @@
-₊✧──────────────────────🌷 Hello, I'm Isabelle! 👩🏼‍💻──────────────────────✧₊∘
+₊✧───────🌷 Hello, I'm Isabelle! 👩🏼‍💻───────✧₊∘
 
 . ݁₊ ⊹ . ݁_focused on developing clean, scalable, and easily maintainable software._₊ ⊹ .
-
-════════════════════════════════════════
 
 💻 Languages
 
