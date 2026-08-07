@@ -4,8 +4,6 @@
 . ݁₊ ⊹ I develop clean, scalable, and maintainable software solutions. ⊹ ₊ ݁.  
 </p>
 
-<br>
-
 <hr>
 
 <h3 align="left">
@@ -19,8 +17,6 @@
 <br>
 Focused on building APIs, improving software architecture, and continuously evolving my technical skills.
 </p>
-
-<br>
 
 <hr>
 
