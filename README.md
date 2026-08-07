@@ -1,5 +1,7 @@
 <h2 align="center">❀ Hello, I'm Isabelle!</h2>
 
+<hr>
+
 <p align="center">
 <b>. ݁₊ ⊹ I develop clean, scalable, and maintainable software solutions. ⊹ ₊ ݁.</b>  
 </p>
