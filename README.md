@@ -40,8 +40,6 @@ MySQL • Oracle
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
    &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/>
-   &nbsp;&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" width="35"/>
 </h6>
 
 <br>
