@@ -15,7 +15,7 @@ Back-End Developer & Systems Analyst passionate about technology and problem-sol
 <br>
 Focused on building APIs, improving software architecture, and continuously evolving my technical skills.
 </p>
----
+═══════
 <h3 align="left">
    <b>⢷ Languages
 </h3>
@@ -35,7 +35,7 @@ Focused on building APIs, improving software architecture, and continuously evol
 <h4 align="left">
 Python • Go • Java • PHP • JavaScript
 </h4>
-
+═══════
 <h3 align="left">
   <b>ᯓ Databases</b>
 </h3>
@@ -49,7 +49,7 @@ Python • Go • Java • PHP • JavaScript
 <h4 align="left">
 MySQL • Oracle
 </h4>
-
+═══════
 <h3 align="left">
   <b>✶ Tools</b>
 </h3>
@@ -67,7 +67,7 @@ MySQL • Oracle
 <h4 align="left">
 Git • GitHub • Docker • VS Code
 </h4>
-
+═══════
 <h3 align="left">
   <b>↳ Currently learning</b>
 </h3>
@@ -75,7 +75,7 @@ Git • GitHub • Docker • VS Code
 <h4 align="left">
 Software Architecture • REST APIs • Testing Strategies • Clean Code
 </h4>
-
+═══════
 <h3 align="left">
   <b>⚡︎ Contact</b>
 </h3>
