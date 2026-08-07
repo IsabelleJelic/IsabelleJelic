@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-#### 💻 Languages
+💻 Languages
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Python • Go • Java • PHP • JavaScript
 <br>
 
 <p align="center">
-#### 🗄️ Databases
+🗄️ Databases
 <p/>
 
 <p align="center">
@@ -37,7 +37,7 @@ MySQL • Oracle • SQL
 <br>
 
 <p align="center">
-#### ⚙️ Tools
+⚙️ Tools
 <p/>
 
 <p align="center">
@@ -54,7 +54,7 @@ Git • GitHub • Docker • VS Code
 <br>
 
 <p align="center">
-#### 🌱 Currently learning
+🌱 Currently learning
 <p/>
 
 <p align="center">
@@ -64,9 +64,9 @@ Software Architecture • REST APIs • Automated Testing
 <br>
 
 <p align="center">
-#### 📫 Contact
+📫 Contact
 <p/>
 
 <p align="center">
-✉️ isabellevic.jelic@gmail.com
+📩 isabellevic.jelic@gmail.com
 </p>
