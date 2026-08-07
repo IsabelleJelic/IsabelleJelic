@@ -18,9 +18,11 @@
 Focused on building APIs, improving software architecture, and continuously evolving my technical skills.
 </p>
 
+<br>
+
 <h3 align="left">
    <b>
-  ⌁ Languages
+  ᯓ Languages
 </h3>
 
 <p align="left">
@@ -56,7 +58,7 @@ MySQL • Oracle
 
 <h3 align="left">
   <b>
-  ✶ Tools</b>
+  ᯓ Tools</b>
 </h3>
 
 <p align="left">
@@ -75,7 +77,7 @@ Git • GitHub • Docker • VS Code
 
 <h3 align="left">
   <b>
-  ↳ Currently learning</b>
+  ᯓ Currently learning</b>
 </h3>
 
 <p align="left">
@@ -84,7 +86,7 @@ Software Architecture • REST APIs • Automated Testing • Clean Code
 
 <h3 align="left">
   <b>
-    ⚡︎ Contact</b>
+    ᯓ Contact</b>
 </h3>
 
 <p align="left">
