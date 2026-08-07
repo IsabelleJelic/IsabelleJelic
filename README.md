@@ -13,7 +13,6 @@
 <h4 align="left">
 Python • Go • Java • PHP • JavaScript
 </h4>
-
 <h4 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35"/>
