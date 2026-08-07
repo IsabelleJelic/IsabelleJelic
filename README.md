@@ -2,7 +2,7 @@
 
 . ݁₊ ⊹ . ݁ Developer and Systems Analyst focused on developing clean, scalable, and maintainable software solutions. ₊ ⊹ .
 
----
+୨୧ ───────────── ୨୧
 
 #### 💻 Languages
 
