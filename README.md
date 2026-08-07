@@ -8,8 +8,8 @@
 
 <h3 align="left">
   <b>
-    ═══════
   ✧ About me
+    ═══════
   </b>
 </h3>
 
@@ -21,8 +21,8 @@ Focused on building APIs, improving software architecture, and continuously evol
 
 <h3 align="left">
    <b>
-     ═══════
   ⢷ Languages
+     ═══════
 </h3>
 
 <p align="left">
@@ -43,8 +43,8 @@ Python • Go • Java • PHP • JavaScript
 
 <h3 align="left">
   <b>
-    ═══════
   ᯓ Databases</b>
+  ═══════
 </h3>
 
 <p align="left">
@@ -59,8 +59,8 @@ MySQL • Oracle
 
 <h3 align="left">
   <b>
-    ═══════
   ✶ Tools</b>
+  ═══════
 </h3>
 
 <p align="left">
@@ -79,8 +79,8 @@ Git • GitHub • Docker • VS Code
 
 <h3 align="left">
   <b>
-    ═══════
   ↳ Currently learning</b>
+  ═══════
 </h3>
 
 <h4 align="left">
