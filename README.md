@@ -1,8 +1,8 @@
-*❀ Hello, I'm Isabelle!*
+#### *❀ Hello, I'm Isabelle!*
 
-. ݁₊ ⊹ . ݁ _focused on developing clean, scalable, and easily maintainable software._ ₊ ⊹ .
+#### . ݁₊ ⊹ . ݁ _focused on developing clean, scalable, and easily maintainable software._ ₊ ⊹ .
 
-✧₊∘✧₊∘
+---
 
 #### 💻 Languages
 
@@ -18,7 +18,7 @@
 
 <img width="320" height="394" alt="image" src="https://github.com/user-attachments/assets/cde5c418-e004-4d06-8806-88fb9c40e008" />
 
-✧₊∘✧₊∘
+---
 
 #### 🗄️ Databases
 
@@ -26,7 +26,7 @@
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/11b02d9c-953e-4a31-b291-4d38c4b1d1a7" />
 
-✧₊∘✧₊∘
+---
 
 #### ⚙️ Tools
 
@@ -40,7 +40,7 @@
 
 <img width="1000" height="789" alt="image" src="https://github.com/user-attachments/assets/e0781c52-b9b5-46c9-a2be-17099e861e72" />
 
-✧₊∘✧₊∘
+---
 
 #### 🌱 Currently learning
 
@@ -57,7 +57,7 @@
 
 <img width="401" height="367" alt="image" src="https://github.com/user-attachments/assets/5c7f4217-8f5d-4286-8359-b791d882dc11" />
 
-✧₊∘✧₊∘
+---
 
 #### 📫 Contact
 
