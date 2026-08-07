@@ -19,7 +19,7 @@ Currently improving my skills in back-end development, APIs, and software archit
 <br>
 
 <h3 align="left">
-   <b>💻 Languages
+   <b>✦ Languages
 </h3>
 
 <p align="left">
@@ -41,7 +41,7 @@ Python • Go • Java • PHP • JavaScript
 <br>
 
 <h3 align="left">
-  <b>🗄️ Databases</b>
+  <b>◈ Databases</b>
 </h3>
 
 <p align="left">
@@ -57,7 +57,7 @@ MySQL • Oracle
 <br>
 
 <h3 align="left">
-  <b>⚙️ Tools</b>
+  <b>⚙ Tools</b>
 </h3>
 
 <p align="left">
@@ -77,7 +77,7 @@ Git • GitHub • Docker • VS Code
 <br>
 
 <h3 align="left">
-  <b>🌱 Currently learning</b>
+  <b>↳ Currently learning</b>
 </h3>
 
 <h4 align="left">
@@ -91,5 +91,5 @@ Software Architecture • REST APIs • Testing Strategies • Clean Code
 </h3>
 
 <h4 align="left">
-📩 <a href="mailto:isabellevic.jelic@gmail.com">isabellevic.jelic@gmail.com</a>
+✉ <a href="mailto:isabellevic.jelic@gmail.com">isabellevic.jelic@gmail.com</a>
 </h4>
