@@ -1,8 +1,7 @@
 #### *❀ Hello, I'm Isabelle!*
 
-#### . ݁₊ ⊹ . ݁ _focused on developing clean, scalable, and easily maintainable software._ ₊ ⊹ .
-
 ---
+#### . ݁₊ ⊹ . ݁ _focused on developing clean, scalable, and easily maintainable software._ ₊ ⊹ .
 
 #### 💻 Languages
 
