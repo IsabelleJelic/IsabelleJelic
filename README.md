@@ -4,8 +4,6 @@
 ₊˚⊹♡ Back-End Developer & Systems Analyst focused on building clean, scalable, and maintainable software solutions.
 </h3>
 
-<br>
-
 <h3 align="left">
    <b>💻 Languages
 </h3>
@@ -13,7 +11,7 @@
 <h4 align="left">
 Python • Go • Java • PHP • JavaScript
 </h4>
-<br>
+
 <h4 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35"/>
@@ -22,7 +20,7 @@ Python • Go • Java • PHP • JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
 </h4>
 
-<br>
+
 
 <h3 align="left">
   <b>🗄️ Databases</b>
@@ -37,7 +35,7 @@ MySQL • Oracle • SQL
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/>
 </h4>
 
-<br>
+
 
 <h3 align="left">
   <b>⚙️ Tools</b>
@@ -54,7 +52,7 @@ Git • GitHub • Docker • VS Code
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
 </h4>
 
-<br>
+
 
 <h3 align="left">
   <b>🌱 Currently learning</b>
@@ -64,7 +62,7 @@ Git • GitHub • Docker • VS Code
 Software Architecture • REST APIs • Automated Testing
 </h4>
 
-<br>
+
 
 <h3 align="left">
   <b>📫 Contact</b>
