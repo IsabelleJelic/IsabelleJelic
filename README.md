@@ -6,7 +6,7 @@
 
 <br>
 
-<h4 align="right">
+<h4 align="left">
    <b>💻 Languages
 </h4>
 
