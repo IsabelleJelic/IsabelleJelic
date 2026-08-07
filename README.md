@@ -57,7 +57,7 @@ MySQL • Oracle
 <br>
 
 <h3 align="left">
-  <b>⚙ Tools</b>
+  <b>⋆ Tools</b>
 </h3>
 
 <p align="left">
@@ -87,7 +87,7 @@ Software Architecture • REST APIs • Testing Strategies • Clean Code
 <br>
 
 <h3 align="left">
-  <b>📫 Contact</b>
+  <b>⚡︎ Contact</b>
 </h3>
 
 <h4 align="left">
