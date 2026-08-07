@@ -10,7 +10,7 @@
   <b>
   ✧ About me
     
-  ═══════
+  ═══════════
   </b>
 </h3>
 
@@ -24,7 +24,7 @@ Focused on building APIs, improving software architecture, and continuously evol
    <b>
   ⢷ Languages
      
-  ═══════
+  ═════════════
 </h3>
 
 <p align="left">
@@ -47,7 +47,7 @@ Python • Go • Java • PHP • JavaScript
   <b>
   ᯓ Databases</b>
   
-  ═══════
+  ════════════
 </h3>
 
 <p align="left">
@@ -85,7 +85,7 @@ Git • GitHub • Docker • VS Code
   <b>
   ↳ Currently learning</b>
   
-  ═══════
+  ════════════════════
 </h3>
 
 <h4 align="left">
@@ -96,7 +96,7 @@ Software Architecture • REST APIs • Testing Strategies • Clean Code
   <b>
     ⚡︎ Contact</b>
 
-  ═══════
+  ═══════════
 </h3>
 
 <h4 align="left">
